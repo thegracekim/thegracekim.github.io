@@ -3,7 +3,7 @@
     <title>Hello World!</title>
     <script>
     function changeColor(){
-      document.getElementById("button1").style.color="black";
+      document.getElementById("content").style.color="black";
     }
     </script>
     <style>
@@ -15,7 +15,7 @@
   <body>
     <div id="intro" style="color:blue;">
       Hello!
-      <input type="button" id="button1" value="Click me!" />
+      <input type="button" id="button1" value="Click me!" onclick="changeColor()"/>
     </div>
     
     <div id="content" style="color:green;">

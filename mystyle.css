@@ -1,8 +1,13 @@
 body{
-  background-color:white;
+  background-color:blue;
   color:black;
   text-align:center;
 }
+
+.container{
+  margin:50px;
+}
+
 #content{
   color:black;
 }

@@ -1,11 +1,11 @@
 body{
-  background-color:orange;
+  background-color:blue;
   color:black;
   text-align:center;
 }
 
 .container{
-  background-color:blue;
+  background-color:orange;
   padding:25px;
   margin:50px;
 }

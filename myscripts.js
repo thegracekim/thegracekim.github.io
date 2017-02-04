@@ -24,9 +24,18 @@ function checkAnswer(){
   }
 }
 //Gallery
-var pics = ["https://s-media-cache-ak0.pinimg.com/736x/0a/b8/01/0ab8016b4307a437df59eb935105668c.jpg",
-           "https://s-media-cache-ak0.pinimg.com/originals/96/f3/07/96f307e172421ddaa7cd7e8e7e763db2.jpg",
-           "https://s-media-cache-ak0.pinimg.com/originals/89/54/a1/8954a1e6c0ec70b5e02518cd6e8ec75d.jpg"
+var pics = ["https://kpopquote.files.wordpress.com/2012/05/exo-k-mama.jpg",
+           "http://vignette3.wikia.nocookie.net/thelostplanet/images/9/96/EXO-M_MAMA.jpg/revision/latest?cb=20150601125442",
+           "https://tryalittlekpop.files.wordpress.com/2013/05/exo_teaser_011.jpg",
+            "https://1.soompi.io/wp-content/uploads/2013/08/EXO2.jpg",
+            "https://colorcodedlyrics.com/wp-content/uploads/2013/12/317626.jpg",
+            "http://asiapacificarts.usc.edu/files/images/2014410103532exo.png",
+            "http://cdn.koreaboo.com/wp-content/uploads/2015/04/EXO-e1427939387848.jpg",
+            "http://www.asianjunkie.com/wp-content/uploads/2015/05/EXONewYorkYankees.jpg",
+            "https://1.soompi.io/wp-content/uploads/2015/12/exo-sing-for-you-teaser-img-1.jpg",
+            "https://s-media-cache-ak0.pinimg.com/originals/4b/37/a7/4b37a73ed1d53e325fbdea14e6e05260.jpg",
+            "http://celebmix.com/wp-content/uploads/2016/08/exos-latest-music-video-lotto-is-here-01.jpg",
+            "http://images.kpopstarz.com/data/thumbs/full/499249/600/0/0/0/exo-will-never-let-go-their-fans-for-life-with-new-winter-mv.jpg"
            ];
 
 var picIndex = 0;

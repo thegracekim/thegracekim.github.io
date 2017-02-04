@@ -19,11 +19,11 @@ img{
   height: 200px;
 }
 
-#gallery button{
+#gallery input[type="button"]{
   background-color:pink;
   color:white;
   font-size:bolder;
-  padding:15px;
+  padding:5px;
   margin:4px;
 }
 

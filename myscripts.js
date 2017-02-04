@@ -23,3 +23,4 @@ function checkAnswer(){
     document.getElementById("results").innerHTML="Incorrect.";
   }
 }
+var pics

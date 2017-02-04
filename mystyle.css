@@ -19,6 +19,14 @@ img{
   height: 200px;
 }
 
+#gallery button{
+  background-color:pink;
+  color:white;
+  font-size:bolder;
+  padding:15px;
+  margin:4px;
+}
+
 .list {
   text-alight:center;
   list-style-position:inside;  

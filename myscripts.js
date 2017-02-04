@@ -32,7 +32,7 @@ var pics = ["https://s-media-cache-ak0.pinimg.com/736x/0a/b8/01/0ab8016b4307a437
 var picIndex = 0;
 
 function goLeft(){
-  if(picInex > 0 ){
+  if(picIndex > 0 ){
     picIndex = picIndex - 1;
     document.getElementById("pic").src=pics[picIndex];
   }

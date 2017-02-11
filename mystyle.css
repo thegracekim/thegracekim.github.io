@@ -42,3 +42,25 @@ img{
   vertical-align:middle;
   line-height:100px;
 }
+
+#players{
+  float:left;
+}
+
+#board{
+  float:right;
+  width:350px;
+  height:350px;
+}
+
+#game{
+  border-style:solid;
+  width:600px;
+  height:400px;
+  padding:50px;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius:25px;
+  background-color:orange;
+  margin-bottom:25px;
+}
